@@ -1,6 +1,6 @@
 # NSSEA (Non-Stationary Statistics for Extreme Attribution)
 
-Warning : the R version does not work
+Warning : this R version does not work, and is just an archive
 
 ## License
 
